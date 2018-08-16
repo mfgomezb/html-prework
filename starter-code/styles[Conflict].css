@@ -1,0 +1,13 @@
+* {
+    font-family: "Open Sans", OpenSans, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.clearfix {
+    clear: both;
+}
+
+nav {
+    background-color: brown;
+}
